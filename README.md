@@ -8,10 +8,7 @@ This project was part of the course ES203 : Digital Systems offered at IIT Gandh
 
 Team Members - 
 
-Chris Francis
-Nishikant Parmar
-Prankush Agarwal
-Praveen Venkatesh
+Chris Francis | Nishikant Parmar | Prankush Agarwal | Praveen Venkatesh
 
 
 
